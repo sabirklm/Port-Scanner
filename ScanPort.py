@@ -32,7 +32,7 @@ def scan(ip, port):
             pass
         print('------------------------------------------')
     except:
-        print(f"{port} Closed")
+        print(f"Port {port} is  Closed")
 
 
 temp=input("Enter Domain(xyz.mn)")
